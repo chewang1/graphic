@@ -1,0 +1,38 @@
+﻿  Precompiled.cpp
+  UnitTests.cpp
+  SpatialPartition.cpp
+  SimpleNSquared.cpp
+  Shapes.cpp
+  Model.cpp
+  Mesh.cpp
+  Gjk.cpp
+  Gizmo.cpp
+  Geometry.cpp
+  DynamicAabbTree.cpp
+  DebugDraw.cpp
+  Components.cpp
+  Camera.cpp
+  BspTree.cpp
+  Assignment1Tests.cpp
+  Application.cpp
+  Support.cpp
+  Main.cpp
+  Assignment5Tests.cpp
+  Assignment4Tests.cpp
+  Generating Code...
+  Compiling...
+  Assignment3Tests.cpp
+  Assignment2Tests.cpp
+  Generating Code...
+  CS350Framework.vcxproj -> C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\\Build\Out\Debug\CS350Framework\CS350Framework.exe
+  CS350Framework.vcxproj -> C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\\Build\Out\Debug\CS350Framework\CS350Framework.pdb (Full PDB)
+          1 file(s) copied.
+          1 file(s) copied.
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Cube.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Cylinder.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Gourd.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Icosahedron.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Obj.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Octohedron.txt
+  C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\CS350Framework\\DataFiles\Sphere.txt
+  7 File(s) copied

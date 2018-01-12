@@ -1,0 +1,15 @@
+﻿  Precompiled.cpp
+  Vector4.cpp
+  Vector3.cpp
+  Vector2.cpp
+  Utilities.cpp
+  Reals.cpp
+  Quaternion.cpp
+  Matrix4.cpp
+  Matrix3.cpp
+  Matrix2.cpp
+  MathFunctions.cpp
+  EulerOrder.cpp
+  EulerAngles.cpp
+  Generating Code...
+  Math.vcxproj -> C:\Users\CheWang-ROG\Desktop\che\cs350\CS350Framework\\Build\Out\Debug\Math\Math.lib
